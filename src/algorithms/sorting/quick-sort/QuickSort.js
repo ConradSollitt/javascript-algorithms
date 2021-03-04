@@ -1,4 +1,4 @@
-import Sort from '../Sort';
+import Sort from '../Sort.js';
 
 export default class QuickSort extends Sort {
   /**
